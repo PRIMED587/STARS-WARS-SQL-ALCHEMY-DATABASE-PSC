@@ -1,3 +1,16 @@
+
+![DIAGRAM STARWARS DB](https://github.com/user-attachments/assets/cae989eb-4534-4574-936e-91349cf712e6)
+
+![STAR WARS DATABASE](https://github.com/user-attachments/assets/73b5e72d-2a55-4f19-ad3c-f58e881062b5)
+
+
+
+
+
+
+
+
+
 <a href="https://www.breatheco.de"><img height="280" align="right" src="https://github.com/4GeeksAcademy/flask-rest-hello/blob/main/docs/assets/badge.png?raw=true"></a>
 
 # Flask Boilerplate for Junior Developers
